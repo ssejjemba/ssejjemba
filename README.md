@@ -49,7 +49,7 @@ A brief description of your project, highlighting its key features and technolog
 
 ### ConceptSauce Ltd
 
-**Lead Front End Developer** | Aug 2018 - Current
+**Lead Developer** | Aug 2018 - Current
 
 - Shaped the technical vision, spearheading the transition from Godot to React to reduce tech debt.
 - Collaborated with product, marketing, and customer enablement teams to prioritize feature development.
