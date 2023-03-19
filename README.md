@@ -91,10 +91,10 @@ A brief description of your project, highlighting its key features and technolog
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Website](https://img.shields.io/badge/Website-blue?style=flat-square-square&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ssejjemba)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ssejjembadan)
+[![Website](https://img.shields.io/badge/Website-blue?style=flat-square-square&logo=google-chrome&logoColor=white)](https://ssejjembadan.com/)
 
 ## 📩 Contact me
 
-Feel free to reach out to me at youremail@example.com for any inquiries or collaboration opportunities.
+Feel free to reach out to me at ssejjembadan@gmail.com for any inquiries or collaboration opportunities.
