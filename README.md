@@ -47,21 +47,47 @@ A brief description of your project, highlighting its key features and technolog
 
 ## 🌟 Experience
 
-### Company 1 (Date - Present)
+### ConceptSauce Ltd
 
-**Senior Full Stack Developer**
+**Lead Front End Developer** | Aug 2018 - Current
 
-- Brief description of your responsibilities and accomplishments at this position.
+- Shaped the technical vision, spearheading the transition from Godot to React to reduce tech debt.
+- Collaborated with product, marketing, and customer enablement teams to prioritize feature development.
+- Enhanced team processes and test coverage, resulting in reduced bugs and improved product quality.
+- Developed a front-end error logging tool and contributed to various internal developer tools.
 
-### Company 2 (Date - Date)
+### AlgoTest
 
-**Full Stack Developer**
+**Senior Front End Developer** | Oct 2021 - Jul 2022
 
-- Brief description of your responsibilities and accomplishments at this position.
+- Crafted and maintained AlgoTest web application frontend using HTML/CSS/JS(ES6), React, Styled Components, SCSS, and Next.js.
+- Engineered AlgoTest website frontend build tooling using NPM scripts, Grunt, Webpack, and Babel.
+- Delivered high-quality, clean, testable, and maintainable code for mobile, desktop, and tablet applications.
+- Influenced technology, architecture, workflow, and design decisions, while implementing unit and functional testing with Jest and React Testing Library.
+
+### Cognitive Insights
+
+**Full-Stack Developer** | Jan 2018 - Jun 2018
+
+- Developed isomorphic web and mobile applications utilizing React, Redux, React Native, Node, and Express.
+- Streamlined deployment processes with CI/CD services, honing my skills as a full-stack developer.
+- Collaborated with leadership and clients to evaluate and explore future features and projects, while mentoring teammates.
+- Optimized components for peak performance across a wide range of web-capable devices and browsers.
+
+### QriScorp Uganda
+
+**Jr. Software Developer** | Jun 2016 - Nov 2017
+
+- Created Android applications and provided support for existing websites.
+- Managed frontend operations using NPM, Bower, Grunt, Gulp, and RequireJS, while testing client apps with Jasmine.
+- Assisted designers in production work, offering feedback on best practices for web and mobile design.
+- Transformed Figma files into pixel-perfect applications with a keen eye for detail.
 
 ## 🎓 Education
 
-- Degree, Institution, Date
+### Makerere University
+
+**Bachelors in Computer Engineering** | 2014 - 2019
 
 ## 🌐 Connect with me
 
