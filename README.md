@@ -27,14 +27,20 @@ I'm a Full Stack Developer with over 7 years of experience building web applicat
 
 ## 💻 Projects
 
-### Project 1 - [Project Title](https://github.com/yourusername/project1)
+### Project 1 - [PetCare](https://ssejjemba.github.io/ReactGodotMerge/dist/)
 
-![Project 1 Screenshot](path/to/project1-screenshot.png)
+![Pet Care Screenshot](./assets/pet_care.png)
 
-A brief description of your project, highlighting its key features and technologies used.
+PetCarePlus is a unique, innovative web application built using React for the provision of a comprehensive suite of pet care services. It provides a platform where pet owners can easily schedule and book services for their pets, ranging from grooming and veterinary consultations to pet sitting and walking services.
 
-- [Live Demo](https://project1.example.com)
-- [Repository](https://github.com/yourusername/project1)
+But PetCarePlus is more than just a service booking portal. It is also an entertainment hub that merges the world of web applications and game development, presenting users with an embedded 2D game built with the robust Godot engine and scripted in GDScript.
+
+This game, designed to entertain and engage visitors of the application, offers an interactive and fun user experience, making the wait times enjoyable. It exemplifies the potential of merging JavaScript-based applications (like React) with Godot-engine games, establishing a seamless, bidirectional communication channel between the two.
+
+The concept of bridging between a JavaScript application and a Godot engine game in this project not only adds an engaging dimension to the user experience but also forms a blueprint for building more complex commercial applications. PetCarePlus stands as a testament to the convergence of practical service provision and digital entertainment in the web application landscape.
+
+- [Live Demo](https://ssejjemba.github.io/ReactGodotMerge/dist/)
+- [Repository](hhttps://github.com/ssejjemba/ReactGodotMerge)
 
 ### Project 2 - [Project Title](https://github.com/yourusername/project2)
 
