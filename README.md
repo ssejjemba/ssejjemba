@@ -10,6 +10,18 @@ I am an all-round Software Engineer with over **10 years of experience** archite
 
 ### **Architecture & Design**
 
+As a lead engineer, I advocate for code that is human-centric rather than just machine-efficient. My development approach is governed by these core principles:
+
+The "Tired Engineer" Rule: Code should be so explicit that a developer at 3 AM can understand it instantly. I avoid "clever" shorthand, complex ternaries, and nested logic in favor of readable, declarative statements.
+
+Orchestrator + Helpers Pattern: I structure functions to perform guard checks first, followed by a clear "Golden Path."
+
+Offensive Programming: I build modules as reliable black boxes that fail fast and provide meaningful feedback, ensuring system stability.
+
+Modular Clean Architecture: Heavy emphasis on Feature-First organization, Dependency Injection, and Composition over Inheritance.
+
+Documentation First: I believe JSDoc is non-negotiable for classes and methods to ensure long-term maintainability.
+
 ---
 
 ## 💻 Featured Projects
