@@ -1,95 +1,120 @@
-# # Hi, I'm Daniel Ssejjemba 👋
+# Hi, I'm Daniel Ssejjemba 👋
 
-**Lead Frontend Developer | Full Stack Engineer | Tech Entrepreneur**
+**Lead Frontend Engineer • Full Stack Builder • Product-minded Architect**
 
-I am an all-round Software Engineer with over **10 years of experience** architecting scalable web and mobile solutions. Currently serving as a **Lead Frontend Developer at CodeBits**, I specialize in bridging the gap between complex engineering and intuitive UI/UX design. Beyond the IDE, I am a co-founder of **Xalta Academy**, a musician, and a developer dedicated to building community-focused platforms.
+I build **clean, scalable UI systems** and the **engineering foundations** behind them.
+My focus is helping teams ship **complex products** without turning the codebase into a mess.
 
-## 🚀 Technical Arsenal
-
-### **Languages & Frameworks**
-
-### **Architecture & Design**
-
-As a lead engineer, I advocate for code that is human-centric rather than just machine-efficient. My development approach is governed by these core principles:
-
-The "Tired Engineer" Rule: Code should be so explicit that a developer at 3 AM can understand it instantly. I avoid "clever" shorthand, complex ternaries, and nested logic in favor of readable, declarative statements.
-
-Orchestrator + Helpers Pattern: I structure functions to perform guard checks first, followed by a clear "Golden Path."
-
-Offensive Programming: I build modules as reliable black boxes that fail fast and provide meaningful feedback, ensuring system stability.
-
-Modular Clean Architecture: Heavy emphasis on Feature-First organization, Dependency Injection, and Composition over Inheritance.
-
-Documentation First: I believe JSDoc is non-negotiable for classes and methods to ensure long-term maintainability.
+📍 Based in Uganda • Open to remote work  
+💼 Frontend leadership, UI architecture, and full-stack delivery  
+🎓 BSc Computer Engineering • MSc (in progress)
 
 ---
 
-## 💻 Featured Projects
+## ✅ What clients hire me for
 
-### **Xalta Academy**
-
-*Co-Founder & Technical Architect*
-As a co-founder, I shaped the technical foundation and curriculum for Xalta Academy. This project focuses on empowering the next generation of tech talent through structured, industry-aligned learning paths.
-
-### **Fitbook**
-
-*Full Stack Developer*
-A comprehensive fitness application designed to track workouts and health metrics. I led the technical specification and UI/UX design, focusing on a seamless user journey and performant data visualization.
-
-### **Senpai - Dating for Anime Fans**
-
-*Mobile Lead (Flutter)*
-Engineered a niche social platform using Flutter. I managed the end-to-end lifecycle, from handling Sentry error monitoring and performance optimization to ensuring compliance with App Store and Google Play policies.
-
-### **PetCarePlus**
-
-*Innovative Web-Game Hybrid*
-A unique React application that integrates an embedded 2D Godot engine game. It establishes a bidirectional communication bridge between JavaScript and GDScript, proving that service-based platforms can be highly engaging through gamification.
-
-### **KamuKamu Hardware**
-
-*Web Consultant & Developer*
-Developed a dedicated web application for a hardware retail business, focusing on inventory visibility and local SEO to drive digital transformation for traditional retail.
+- **Frontend architecture that lasts** (structure, patterns, scalability)
+- **Complex UI engineering** (drag/drop editors, workflows, state-heavy systems)
+- **Performance + reliability** (defensive coding, monitoring, predictable failure modes)
+- **Developer experience** (coding standards, documentation, test strategy, mentoring)
+- **Full-stack delivery** when needed (APIs, auth, data pipelines, dashboards)
 
 ---
 
-## 🌟 Professional Evolution
+## 🧠 Engineering principles I’m known for
 
-### **CodeBits**
-
-**Lead Frontend Developer** | Jan 2025 - Present
-
-* Spearheading frontend architecture and mentoring junior developers.
-* Implementing strict coding standards, JSDoc documentation, and early-return patterns to maximize code readability and maintainability.
-
-### **ConceptSauce Ltd**
-
-**Lead Developer** | Aug 2018 - Dec 2024
-
-* Led the strategic transition from Godot to React, significantly reducing technical debt and improving load performance.
-* Developed custom internal error-logging tools and optimized the CI/CD pipeline.
-
-### **AlgoTest**
-
-**Senior Front End Developer** | Oct 2021 - Jul 2022
-
-* Engineered the frontend build tooling (Webpack, Babel, Grunt) and implemented comprehensive testing suites using Jest and React Testing Library.
+- **Tired Engineer Rule:** explicit code that still reads well at 3 AM  
+- **Orchestrator + Helpers:** guard checks first, golden path next  
+- **Defensive modules:** fail fast, meaningful errors, stable integrations  
+- **Feature-first architecture:** clean boundaries, DI, composition over inheritance  
+- **Documentation-first:** JSDoc everywhere (public *and* private)
 
 ---
 
-## 🎓 Education & Growth
+## 🧰 Tech stack
 
-* **MSc (In Progress)** – University of East London
-* **Bachelors in Computer Engineering** – Makerere University
+### Core
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 
-## 🎵 Beyond Coding
+### State, Testing, Tooling
+![MobX](https://img.shields.io/badge/MobX-FF9955?logo=mobx&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=white)
 
-When I’m not refactoring code, you’ll find me playing lead guitar for **Nova Sound Band**, playing soccer on the turf, or planning a multiplayer version of the card game **Sequence**.
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+
+### Backend & Data (when needed)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+
+### 3D / Interactive (specialty)
+![Babylon.js](https://img.shields.io/badge/Babylon.js-BB464B?logo=babylondotjs&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
 
 ---
 
-## 📩 Connect With Me
+## 📌 Featured work (high impact)
+
+### 🧩 SIP Platform — Survey Builder for Market Research
+A multi-app React system with heavy UI complexity (shapes, connectors, logic building).
+I led frontend architecture and delivery for key apps, with emphasis on maintainability,
+defensive rendering, and team-scale development.
+
+### 🎓 Xalta Academy
+Co-founded an education platform and program direction focused on practical,
+industry-aligned learning paths for real skill development.
+
+### 📱 Flutter systems (real production constraints)
+Built Flutter apps with strong focus on lifecycle correctness, performance,
+store patterns (BLoC), and production-grade stability.
+
+### 🧪 Testing culture + standards
+I push test strategies that improve confidence: clear selectors, defensive mocks,
+and readability-first test cases that explain the “why”, not just the “what”.
+
+> Add links here as soon as repos/case studies are public:
+> - **SIP Platform (case study)** → (link)
+> - **Xalta Academy** → (link)
+> - **Flutter work demo** → (link)
+> - **Testing playbook** → (link)
 
 ---
 
-Would you like me to generate a specific **"Tech Stack"** table that focuses more on your recent Node.js and Flutter work?
+## 🧾 Proof & credibility
+
+- 10+ years building web + mobile systems
+- Architecture + delivery for complex UI products
+- Mentorship and coding standards for growing teams
+- Strong documentation discipline (JSDoc, design docs, runbooks)
+
+---
+
+## 📊 GitHub snapshot
+
+![Profile Views](https://komarev.com/ghpvc/?username=ssejjemba&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssejjemba&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssejjemba&layout=compact)
+
+---
+
+## 🎵 Beyond engineering
+I’m also a musician (lead guitar) with **Nova Sound**, and I love building products
+that feel crafted — not rushed.
+
+---
+
+## 📩 Contact
+- Email: **ssejjembadan@gmail.com**
+- LinkedIn: (add link)
+- Portfolio: (add link)
+
+If you need someone to take ownership of frontend architecture and delivery,
+I’m open to short contracts and long-term engagements.
