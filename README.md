@@ -1,106 +1,83 @@
-# Hi, I'm Daniel Ssejjemba 👋
+# # Hi, I'm Daniel Ssejjemba 👋
 
-I'm a Full Stack Developer with over 7 years of experience building web applications, creating efficient solutions, and bringing ideas to life. I'm passionate about writing clean, maintainable code and enjoy working with cutting-edge technologies.
+**Lead Frontend Developer | Full Stack Engineer | Tech Entrepreneur**
 
-## 🚀 Skills
+I am an all-round Software Engineer with over **10 years of experience** architecting scalable web and mobile solutions. Currently serving as a **Lead Frontend Developer at CodeBits**, I specialize in bridging the gap between complex engineering and intuitive UI/UX design. Beyond the IDE, I am a co-founder of **Xalta Academy**, a musician, and a developer dedicated to building community-focused platforms.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-blue?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-blue?style=flat-square&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/Django-blue?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-blue?style=flat-square&logo=git&logoColor=white)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-green?style=flat-square&logo=checkmarx&logoColor=white)
-![GoLang](https://img.shields.io/badge/GoLang-blue?style=flat-square&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white)
-![MatLab](https://img.shields.io/badge/MatLab-blue?style=flat-square&logo=mathworks&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-blue?style=flat-square&logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-blue?style=flat-square&logo=android-studio&logoColor=white)
-![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white)
-![Solutions Architect](https://img.shields.io/badge/Solutions_Architect-green?style=flat-square&logo=aws&logoColor=white)
-![Debugging](https://img.shields.io/badge/Debugging-green?style=flat-square&logo=gitpod&logoColor=white)
-![Refactoring](https://img.shields.io/badge/Refactoring-green?style=flat-square&logo=sourcegraph&logoColor=white)
+## 🚀 Technical Arsenal
 
-## 💻 Projects
+### **Languages & Frameworks**
 
-### Project 1 - [PetCare](https://ssejjemba.github.io/ReactGodotMerge/dist/)
+### **Architecture & Design**
 
-![Pet Care Screenshot](./assets/pet_care.png)
+---
 
-PetCarePlus is a unique, innovative web application built using React for the provision of a comprehensive suite of pet care services. It provides a platform where pet owners can easily schedule and book services for their pets, ranging from grooming and veterinary consultations to pet sitting and walking services.
+## 💻 Featured Projects
 
-But PetCarePlus is more than just a service booking portal. It is also an entertainment hub that merges the world of web applications and game development, presenting users with an embedded 2D game built with the robust Godot engine and scripted in GDScript.
+### **Xalta Academy**
 
-This game, designed to entertain and engage visitors of the application, offers an interactive and fun user experience, making the wait times enjoyable. It exemplifies the potential of merging JavaScript-based applications (like React) with Godot-engine games, establishing a seamless, bidirectional communication channel between the two.
+*Co-Founder & Technical Architect*
+As a co-founder, I shaped the technical foundation and curriculum for Xalta Academy. This project focuses on empowering the next generation of tech talent through structured, industry-aligned learning paths.
 
-The concept of bridging between a JavaScript application and a Godot engine game in this project not only adds an engaging dimension to the user experience but also forms a blueprint for building more complex commercial applications. PetCarePlus stands as a testament to the convergence of practical service provision and digital entertainment in the web application landscape.
+### **Fitbook**
 
-- [Live Demo](https://ssejjemba.github.io/ReactGodotMerge/dist/)
-- [Repository](hhttps://github.com/ssejjemba/ReactGodotMerge)
+*Full Stack Developer*
+A comprehensive fitness application designed to track workouts and health metrics. I led the technical specification and UI/UX design, focusing on a seamless user journey and performant data visualization.
 
-### Project 2 - [Project Title](https://github.com/yourusername/project2)
+### **Senpai - Dating for Anime Fans**
 
-![Project 2 Screenshot](path/to/project2-screenshot.png)
+*Mobile Lead (Flutter)*
+Engineered a niche social platform using Flutter. I managed the end-to-end lifecycle, from handling Sentry error monitoring and performance optimization to ensuring compliance with App Store and Google Play policies.
 
-A brief description of your project, highlighting its key features and technologies used.
+### **PetCarePlus**
 
-- [Live Demo](https://project2.example.com)
-- [Repository](https://github.com/yourusername/project2)
+*Innovative Web-Game Hybrid*
+A unique React application that integrates an embedded 2D Godot engine game. It establishes a bidirectional communication bridge between JavaScript and GDScript, proving that service-based platforms can be highly engaging through gamification.
 
-## 🌟 Experience
+### **KamuKamu Hardware**
 
-### ConceptSauce Ltd
+*Web Consultant & Developer*
+Developed a dedicated web application for a hardware retail business, focusing on inventory visibility and local SEO to drive digital transformation for traditional retail.
 
-**Lead Developer** | Aug 2018 - Current
+---
 
-- Shaped the technical vision, spearheading the transition from Godot to React to reduce tech debt.
-- Collaborated with product, marketing, and customer enablement teams to prioritize feature development.
-- Enhanced team processes and test coverage, resulting in reduced bugs and improved product quality.
-- Developed a front-end error logging tool and contributed to various internal developer tools.
+## 🌟 Professional Evolution
 
-### AlgoTest
+### **CodeBits**
+
+**Lead Frontend Developer** | Jan 2025 - Present
+
+* Spearheading frontend architecture and mentoring junior developers.
+* Implementing strict coding standards, JSDoc documentation, and early-return patterns to maximize code readability and maintainability.
+
+### **ConceptSauce Ltd**
+
+**Lead Developer** | Aug 2018 - Dec 2024
+
+* Led the strategic transition from Godot to React, significantly reducing technical debt and improving load performance.
+* Developed custom internal error-logging tools and optimized the CI/CD pipeline.
+
+### **AlgoTest**
 
 **Senior Front End Developer** | Oct 2021 - Jul 2022
 
-- Crafted and maintained AlgoTest web application frontend using HTML/CSS/JS(ES6), React, Styled Components, SCSS, and Next.js.
-- Engineered AlgoTest website frontend build tooling using NPM scripts, Grunt, Webpack, and Babel.
-- Delivered high-quality, clean, testable, and maintainable code for mobile, desktop, and tablet applications.
-- Influenced technology, architecture, workflow, and design decisions, while implementing unit and functional testing with Jest and React Testing Library.
+* Engineered the frontend build tooling (Webpack, Babel, Grunt) and implemented comprehensive testing suites using Jest and React Testing Library.
 
-### Cognitive Insights
+---
 
-**Full-Stack Developer** | Jan 2018 - Jun 2018
+## 🎓 Education & Growth
 
-- Developed isomorphic web and mobile applications utilizing React, Redux, React Native, Node, and Express.
-- Streamlined deployment processes with CI/CD services, honing my skills as a full-stack developer.
-- Collaborated with leadership and clients to evaluate and explore future features and projects, while mentoring teammates.
-- Optimized components for peak performance across a wide range of web-capable devices and browsers.
+* **MSc (In Progress)** – University of East London
+* **Bachelors in Computer Engineering** – Makerere University
 
-### QriScorp Uganda
+## 🎵 Beyond Coding
 
-**Jr. Software Developer** | Jun 2016 - Nov 2017
+When I’m not refactoring code, you’ll find me playing lead guitar for **Nova Sound Band**, playing soccer on the turf, or planning a multiplayer version of the card game **Sequence**.
 
-- Created Android applications and provided support for existing websites.
-- Managed frontend operations using NPM, Bower, Grunt, Gulp, and RequireJS, while testing client apps with Jasmine.
-- Assisted designers in production work, offering feedback on best practices for web and mobile design.
-- Transformed Figma files into pixel-perfect applications with a keen eye for detail.
+---
 
-## 🎓 Education
+## 📩 Connect With Me
 
-### Makerere University
+---
 
-**Bachelors in Computer Engineering** | 2014 - 2019
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ssejjemba)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ssejjembadan)
-[![Website](https://img.shields.io/badge/Website-blue?style=flat-square-square&logo=google-chrome&logoColor=white)](https://ssejjembadan.com/)
-
-## 📩 Contact me
-
-Feel free to reach out to me at ssejjembadan@gmail.com for any inquiries or collaboration opportunities.
+Would you like me to generate a specific **"Tech Stack"** table that focuses more on your recent Node.js and Flutter work?
